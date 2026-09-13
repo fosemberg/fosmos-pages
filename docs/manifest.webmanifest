@@ -1,0 +1,10 @@
+{
+  "name": "Fosmos — космические рейнджеры",
+  "short_name": "Fosmos",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#050914",
+  "theme_color": "#050914",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
